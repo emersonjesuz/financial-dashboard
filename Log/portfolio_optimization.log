@@ -1,0 +1,14 @@
+2024-09-20 09:44:07,378 - logger - INFO - Coletando dados da ação AAPL
+2024-09-20 09:44:13,000 - logger - INFO - Colunas disponíveis: ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']
+2024-09-20 09:44:13,001 - logger - INFO - Coletando dados da ação MSFT
+2024-09-20 09:44:13,345 - logger - INFO - Colunas disponíveis: ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']
+2024-09-20 09:44:13,346 - logger - INFO - Coletando dados da ação GOOGL
+2024-09-20 09:44:13,631 - logger - INFO - Colunas disponíveis: ['Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume']
+2024-09-20 09:44:13,633 - logger - INFO - Salvando dados da ação AAPL no banco de dados
+2024-09-20 09:44:14,017 - src.logger - INFO - Dados salvos na tabela AAPL_data
+2024-09-20 09:44:14,017 - logger - INFO - Salvando dados da ação MSFT no banco de dados
+2024-09-20 09:44:14,205 - src.logger - INFO - Dados salvos na tabela MSFT_data
+2024-09-20 09:44:14,205 - logger - INFO - Salvando dados da ação GOOGL no banco de dados
+2024-09-20 09:44:14,390 - src.logger - INFO - Dados salvos na tabela GOOGL_data
+2024-09-20 09:44:14,398 - logger - INFO - Otimizando portfólio
+2024-09-20 09:44:14,410 - logger - INFO - Gerando visualização dos retornos
